@@ -10,6 +10,10 @@ https://www.sciencedirect.com/science/article/pii/S1525157815000458?via%3Dihub
 https://news.mayocliniclabs.com/n1/96e99366cea7b0de/uploads/2020/01/ht-2020-02-03-pathology-next-gen-sequencing-handout.pdf
 https://www.mayocliniclabs.com/-/media/it-mmfiles/Special-Instructions/5/9/4/Tissue_Requirements_for_Solid_Tumor_Next_Generation_Sequencing
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8243513/pdf/main.pdf
+
+
+https://www.cdc.gov/lab-quality/php/ngs-quality-initiative/additional-materials.html
+
 ### QC tools
 FastQC - https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
 
