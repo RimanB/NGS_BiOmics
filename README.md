@@ -13,6 +13,7 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC8243513/pdf/main.pdf
 
 
 https://www.cdc.gov/lab-quality/php/ngs-quality-initiative/additional-materials.html
+https://www.emjreviews.com/flagship-journal/article/demystifying-the-discussion-of-sequencing-panel-size-in-oncology-genetic-testing-j190222/
 
 ### QC tools
 FastQC - https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
